@@ -1,0 +1,1 @@
+java -jar liquibase.jar --driver=com.mysql.jdbc.Driver --classpath=C:\liquibase-3.0.7-bin\mysql-connector-java-5.0.8-bin.jar --changeLogFile=C:\liquibase-3.0.7-bin\Fafa_12\fafa2.xml --url="jdbc:mysql://localhost/fafa_12" --username=root --password= update
